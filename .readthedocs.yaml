@@ -6,4 +6,13 @@ python:
       path: .
 
 sphinx:
+<<<<<<< Updated upstream
   fail_on_warning: true
+=======
+  fail_on_warning: true
+
+  
+formats:
+  - pdf
+  - epub
+>>>>>>> Stashed changes
